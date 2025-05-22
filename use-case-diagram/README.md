@@ -1,4 +1,4 @@
-# 📘 AirBnB Clone Project - Use Case Diagram
+# 📘 Use Case Diagram
 
 This directory contains the **Use Case Diagram** for the Airbnb Clone backend project, created as part of the ALX Backend Engineering Program.
 
@@ -15,6 +15,8 @@ To visualize how users interact with the backend system of the Airbnb Clone appl
 - **Guest**: Registers, logs in, searches properties, makes bookings, and leaves reviews.
 - **Host**: Creates and manages property listings, views bookings, responds to reviews.
 - **Admin**: Monitors and manages users, listings, and transactions.
+- **Payment Gateway** (external system): Handles secure transactions.
+- **Email Service** (external system): Sends notifications.
 
 ## 🔄 Use Cases Include
 
@@ -36,4 +38,3 @@ To visualize how users interact with the backend system of the Airbnb Clone appl
 This diagram helps developers and stakeholders understand the key functional flows of the system at a high level and guides backend development and feature mapping.
 
 ---
-
